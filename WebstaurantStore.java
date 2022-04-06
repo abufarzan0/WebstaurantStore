@@ -8,7 +8,7 @@ public class WebstaurantStore {
 
     public static void main (String [] args) throws InterruptedException {
 
-        System.setProperty("webdriver.chrome.driver", "/Users/abufarzan/Desktop/Automation/chromedriver-2");
+        System.setProperty("webdriver.chrome.driver", "/Users/abufarzan/Desktop/Automation/chromedriver");
 
         ChromeOptions options = new ChromeOptions();
 
